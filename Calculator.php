@@ -28,7 +28,7 @@ function calculator($a, $b, $operation){
 			echo $result;
 			break;
 		default:
-			echo"Ошибка: Неизевстная операция";
+			echo"Ошибка: Неизвестная операция";
 	}
 }
 echo "+: ";
